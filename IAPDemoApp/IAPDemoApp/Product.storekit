@@ -15,8 +15,28 @@
           "locale" : "en_US"
         }
       ],
-      "productID" : "com.temporary.id",
+      "productID" : "com.temporary.swift",
       "referenceName" : "Swift",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "7C9249A3",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        },
+        {
+          "description" : "",
+          "displayName" : "UnrealEngine5",
+          "locale" : "ar"
+        }
+      ],
+      "productID" : "com.temporary.ue5",
+      "referenceName" : "UE5",
       "type" : "NonConsumable"
     }
   ],
